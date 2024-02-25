@@ -1,0 +1,40 @@
+.para {
+    font-style: "normal";
+    font-family: "Roboto";
+    font-size: 20px;
+    color: #5a7184;
+}
+
+.main-heading {
+    font-style: normal;
+    font-family: "Roboto";
+    font-size: 38px;
+    color: Yellow;
+    font-weight: bold;
+}
+
+.section-image {
+    height: 100px;
+    border-radius: 50px;
+}
+
+.portfolio-section {
+    background-color: #001c32;
+}
+
+.icon {
+    color: #5a7184;
+    font-size: 14px;
+}
+
+.copy-rightcontainer {
+    background-color: #0d2436;
+}
+
+.outline {
+    font-style: normal;
+    font-family: "Roboto";
+    font-size: 18px;
+    color: #5a7184;
+    font-weight: bold;
+}
